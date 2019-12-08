@@ -23,3 +23,12 @@ hs_err_pid*
 .idea/
 spring-boot-starter-swagger.iml
 target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
